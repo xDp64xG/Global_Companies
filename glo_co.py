@@ -4,7 +4,7 @@ from tasks.news_applications_training import initialize_tasks
 from helpers.config_utils import ConfigUtils
 from commands import register_commands
 
-TOKEN = "MTMxNTcwNzMzNzQwMjYxNzkzNg.GrG3kG.-khSgsHco7MQFPPy-s5XTGxL6MoabPfrQgmJH0"
+TOKEN = "Your token here"  # Replace with your actual bot token
 
 # Initialize ConfigUtils
 config_utils = ConfigUtils(base_directory="./data/config")
