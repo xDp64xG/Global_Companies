@@ -1,0 +1,1525 @@
+{
+    "1": {
+      "Type": "Hair Salon",
+      "Positions": {
+        "Stylist": {
+          "Manual Labor": 1500,
+          "Endurance": 750
+        },
+        "Colorist": {
+          "Manual Labor": 2000,
+          "Endurance": 1000
+        },
+        "Nail Technician": {
+          "Endurance": 1500,
+          "Manual Labor": 750
+        },
+        "Apprentice": {
+          "Manual Labor": 500,
+          "Endurance": 250
+        },
+        "Shampooist": {
+          "Manual Labor": 1000,
+          "Endurance": 500
+        },
+        "Senior Stylist": {
+          "Manual Labor": 3000,
+          "Endurance": 1500
+        },
+        "Receptionist": {
+          "Endurance": 2500,
+          "Intelligence": 1250
+        },
+        "Trainer": {
+          "Intelligence": 4500,
+          "Endurance": 2250
+        },
+        "Aesthetician": {
+          "Intelligence": 4500,
+          "Endurance": 2250
+        }
+      },
+      "Stock":[
+            {
+            "Service" : "Standard Treatment",
+            "Cost" : 0,
+            "RRP" : 95,
+            "Buyable" : false
+            },
+            {
+                "Service" : "Full Treatment",
+                "Cost" : 0,
+                "RRP" : 150,
+                "Buyable" : false
+                },
+            {
+            "Service" : "Luxury Treatment",
+            "Cost" : 0,
+            "RRP" : 350,
+            "Buyable" : false
+            }
+            
+      ]
+        
+    },
+    "2": {
+      "Type": "Lawfirm",
+      "Positions": {
+        "Cleaner": {
+          "Manual Labor": 5500,
+          "Endurance": 2750
+        },
+        "Marketer": {
+          "Intelligence": 22000,
+          "Endurance": 11000
+        },
+        "Consultant": {
+          "Intelligence": 33000,
+          "Endurance": 16500
+        },
+        "Secretary": {
+          "Endurance": 16500,
+          "Intelligence": 8250
+        },
+        "Assistant": {
+          "Endurance": 5500,
+          "Intelligence": 2750
+        },
+        "Attorney": {
+          "Intelligence": 11000,
+          "Endurance": 5500
+        }
+      }
+    },
+    "3": {
+      "Type": "Flower Shop",
+      "Positions": {
+        "Florist": {
+          "Endurance": 1000,
+          "Manual Labor": 500
+        },
+        "Arranger": {
+          "Intelligence": 1000,
+          "Manual Labor": 500
+        },
+        "Apprentice": {
+          "Endurance": 500,
+          "Manual Labor": 250
+        },
+        "Cleaner": {
+          "Manual Labor": 500,
+          "Endurance": 250
+        },
+        "Manager": {
+          "Endurance": 2000,
+          "Intelligence": 1000
+        },
+        "Marketer": {
+          "Intelligence": 2000,
+          "Endurance": 1000
+        },
+        "Accountant": {
+          "Endurance": 1500,
+          "Intelligence": 750
+        }
+      }
+    },
+    "4": {
+      "Type": "Car Dealership",
+      "Positions": {
+        "Training Adviser": {
+          "Intelligence": 63000,
+          "Endurance": 31500
+        },
+        "Manager": {
+          "Endurance": 42000,
+          "Intelligence": 21000
+        },
+        "Webmaster": {
+          "Intelligence": 42000,
+          "Endurance": 21000
+        },
+        "Receptionist": {
+          "Endurance": 31500,
+          "Intelligence": 15750
+        },
+        "Mechanic": {
+          "Manual Labor": 26500,
+          "Endurance": 13250
+        },
+        "Sales Executive": {
+          "Intelligence": 21000,
+          "Endurance": 10500
+        },
+        "Cleaner": {
+          "Manual Labor": 10500,
+          "Endurance": 5250
+        },
+        "Sales Apprentice": {
+          "Intelligence": 5500,
+          "Endurance": 2750
+        }
+      }
+    },
+    "5": {
+      "Type": "Clothing Store",
+      "Positions": {
+        "Line Manager": {
+          "Intelligence": 6000,
+          "Endurance": 3000
+        },
+        "Store Manager": {
+          "Endurance": 4000,
+          "Intelligence": 2000
+        },
+        "Marketing Manager": {
+          "Intelligence": 4000,
+          "Endurance": 2000
+        },
+        "Accountant": {
+          "Endurance": 3000,
+          "Intelligence": 1500
+        },
+        "Security Guard": {
+          "Manual Labor": 3000,
+          "Endurance": 1500
+        },
+        "Salesperson": {
+          "Intelligence": 2000,
+          "Endurance": 1000
+        },
+        "Cashier": {
+          "Endurance": 1500,
+          "Manual Labor": 750
+        },
+        "Cleaner": {
+          "Manual Labor": 1000,
+          "Endurance": 500
+        },
+        "Sales Trainee": {
+          "Intelligence": 500,
+          "Endurance": 250
+        }
+      }
+    },
+    "6": {
+      "Type": "Gun Shop",
+      "Positions": {
+        "Clerk": {
+          "Endurance": 7500,
+          "Manual Labor": 3750
+        },
+        "Gunsmith": {
+          "Manual Labor": 15000,
+          "Intelligence": 7500
+        },
+        "Cleaner": {
+          "Manual Labor": 4000,
+          "Endurance": 2000
+        },
+        "Manager": {
+          "Endurance": 15000,
+          "Intelligence": 7500
+        },
+        "Bookkeeper": {
+          "Endurance": 11500,
+          "Intelligence": 5750
+        },
+        "Marketer": {
+          "Intelligence": 15000,
+          "Endurance": 7500
+        },
+        "Instructor": {
+          "Intelligence": 22500,
+          "Endurance": 11250
+        }
+      }
+    },
+    "7": {
+      "Type": "Game Shop",
+      "Positions": {
+        "Clerk": {
+          "Endurance": 3000,
+          "Manual Labor": 1500
+        },
+        "Game Advisor": {
+          "Intelligence": 4500,
+          "Endurance": 2250
+        },
+        "Cleaner": {
+          "Manual Labor": 1500,
+          "Endurance": 750
+        },
+        "Store Manager": {
+          "Endurance": 6000,
+          "Intelligence": 3000
+        },
+        "Accountant": {
+          "Endurance": 4500,
+          "Intelligence": 2250
+        },
+        "Marketer": {
+          "Intelligence": 6000,
+          "Endurance": 3000
+        }
+      }
+    },
+    "8": {
+      "Type": "Candle Shop",
+      "Positions": {
+        "Chandler": {
+          "Manual Labor": 4500,
+          "Intelligence": 2250
+        },
+        "Trainer": {
+          "Intelligence": 4500,
+          "Endurance": 2250
+        },
+        "Quality Control": {
+          "Endurance": 3000,
+          "Intelligence": 1500
+        },
+        "Bookkeeper": {
+          "Endurance": 2500,
+          "Intelligence": 1250
+        },
+        "Salesperson": {
+          "Endurance": 1500,
+          "Intelligence": 750
+        },
+        "Cleaner": {
+          "Manual Labor": 1000,
+          "Endurance": 500
+        }
+      }
+    },
+    "9": {
+      "Type": "Toy Shop",
+      "Positions": {
+        "Sales Assistant": {
+          "Endurance": 5000,
+          "Manual Labor": 2500
+        },
+        "Cleaner": {
+          "Manual Labor": 2500,
+          "Endurance": 1250
+        },
+        "Store Manager": {
+          "Endurance": 10000,
+          "Intelligence": 5000
+        },
+        "Office Clerk": {
+          "Endurance": 7500,
+          "Intelligence": 3750
+        },
+        "Marketing Executive": {
+          "Intelligence": 10000,
+          "Endurance": 5000
+        },
+        "Training Advisor": {
+          "Intelligence": 15000,
+          "Endurance": 7500
+        },
+        "Stock Clerk": {
+          "Manual Labor": 4000,
+          "Endurance": 2000
+        }
+      }
+    },
+    "10": {
+      "Type": "Adult Novelties",
+      "Positions": {
+        "Human Resources": {
+          "Intelligence": 12000,
+          "Endurance": 6000
+        },
+        "Sexpert": {
+          "Intelligence": 10000,
+          "Endurance": 5000
+        },
+        "Store Manager": {
+          "Endurance": 8000,
+          "Intelligence": 4000
+        },
+        "Marketing Manager": {
+          "Intelligence": 8000,
+          "Endurance": 4000
+        },
+        "Receptionist": {
+          "Endurance": 6000,
+          "Intelligence": 3000
+        },
+        "Sales Assistant": {
+          "Endurance": 4000,
+          "Manual Labor": 2000
+        },
+        "Cleaner": {
+          "Manual Labor": 2000,
+          "Endurance": 1000
+        }
+      },
+      "Stock": {
+            "Services": [],
+            "ProducedGoods": [],
+            "OrderedGoods": [
+                {
+                    "Name": "Blow Up Doll",
+                    "Cost": 4,
+                    "RRP": 29
+                },
+                {
+                    "Name": "Magazine",
+                    "Cost": 4,
+                    "RRP": 14
+                },
+                {
+                    "Name": "Lubricant",
+                    "Cost": 6,
+                    "RRP": 14
+                },
+                {
+                    "Name": "Condoms",
+                    "Cost": 6,
+                    "RRP": 10
+                },
+                {
+                    "Name": "Whip",
+                    "Cost": 7,
+                    "RRP": 25
+                },
+                {
+                    "Name": "Handcuffs",
+                    "Cost": 10,
+                    "RRP": 22
+                },
+                {
+                    "Name": "Kama Sutra Book",
+                    "Cost": 12,
+                    "RRP": 42
+                },
+                {
+                    "Name": "Vibrator",
+                    "Cost": 19,
+                    "RRP": 75
+                }
+            ]
+        }
+    },
+    "11": {
+        "Type": "Cyber Cafe",
+        "Positions": {
+          "Cashier": {
+            "Endurance": 10000,
+            "Intelligence": 5000
+          },
+          "Cleaner": {
+            "Manual Labor": 5000,
+            "Endurance": 2500
+          },
+          "Manager": {
+            "Endurance": 20000,
+            "Intelligence": 10000
+          },
+          "Receptionist": {
+            "Endurance": 15000,
+            "Intelligence": 7500
+          },
+          "Marketer": {
+            "Intelligence": 20000,
+            "Endurance": 10000
+          },
+          "Teacher": {
+            "Intelligence": 30000,
+            "Endurance": 15000
+          },
+          "Administrator": {
+            "Intelligence": 20000,
+            "Endurance": 10000
+          },
+          "Technician": {
+            "Intelligence": 17500,
+            "Manual Labor": 8750
+            }
+    }
+  },
+    "12": {
+      "Type": "Grocery Store",
+      "Positions": {
+        "Cashier": {
+          "Endurance": 6000,
+          "Manual Labor": 3000
+        },
+        "Stock Clerk": {
+          "Manual Labor": 4500,
+          "Endurance": 2250
+        },
+        "Cleaner": {
+          "Manual Labor": 3000,
+          "Endurance": 1500
+        },
+        "Manager": {
+          "Endurance": 12000,
+          "Intelligence": 6000
+        },
+        "Accountant": {
+          "Endurance": 9000,
+          "Intelligence": 4500
+        },
+        "Marketer": {
+          "Intelligence": 12000,
+          "Endurance": 6000
+        },
+        "Trainer": {
+          "Intelligence": 18000,
+          "Endurance": 9000
+        },
+        "Delivery Driver": {
+          "Manual Labor": 7500,
+          "Endurance": 3750
+        },
+        "Cart Attendant": {
+          "Manual Labor": 3000,
+          "Endurance": 1500
+  }
+}
+    },
+    "13": {
+      "Type": "Theater",
+      "Positions": {
+        "Ticketing Agent": {
+          "Endurance": 20000,
+          "Intelligence": 10000
+        },
+        "Technician": {
+          "Manual Labor": 60000,
+          "Intelligence": 30000
+        },
+        "Programmer": {
+          "Intelligence": 50000,
+          "Endurance": 25000
+        },
+        "Janitor": {
+          "Manual Labor": 20000,
+          "Endurance": 10000
+        },
+        "Manager": {
+          "Endurance": 80000,
+          "Intelligence": 40000
+        },
+        "Accountant": {
+          "Endurance": 60000,
+          "Intelligence": 30000
+        },
+        "Marketing Manager": {
+          "Intelligence": 80000,
+          "Endurance": 40000
+        },
+        "Usher": {
+          "Endurance": 20000,
+          "Manual Labor": 10000
+        }
+    }
+},
+    "14": {
+      "Type": "Sweet Shop",
+      "Positions": {
+        "Confectionist": {
+          "Intelligence": 2500,
+          "Endurance": 1250
+        },
+        "Packager": {
+          "Endurance": 1500,
+          "Manual Labor": 750
+        },
+        "Cleaner": {
+          "Manual Labor": 1000,
+          "Endurance": 500
+        },
+        "Manager": {
+          "Endurance": 4000,
+          "Intelligence": 2000
+        },
+        "Bookkeeper": {
+          "Endurance": 3000,
+          "Intelligence": 1500
+        },
+        "Marketer": {
+          "Intelligence": 4000,
+          "Endurance": 2000
+        },
+        "Clerk": {
+          "Endurance": 2000,
+          "Manual Labor": 1000
+        }
+    }
+},
+    
+    "15": {
+      "Type": "Cruise Ship",
+      "Positions": {
+        "Captain": {
+          "Intelligence": 77000,
+          "Endurance": 38500
+        },
+        "First Officer": {
+          "Intelligence": 67000,
+          "Endurance": 33500
+        },
+        "Doctor": {
+          "Intelligence": 63000,
+          "Endurance": 31500
+        },
+        "Specialist": {
+          "Intelligence": 45000,
+          "Endurance": 22500
+        },
+        "Bosun": {
+          "Endurance": 65000,
+          "Intelligence": 32500
+        },
+        "Marketer": {
+          "Intelligence": 64000,
+          "Endurance": 32000
+        },
+        "Chef": {
+          "Intelligence": 63000,
+          "Endurance": 31500
+        },
+        "Engineer": {
+          "Manual Labor": 52500,
+          "Intelligence": 31500
+        },
+        "Receptionist": {
+          "Endurance": 42000,
+          "Intelligence": 21000
+        },
+        "Steward": {
+          "Endurance": 40750,
+          "Intelligence": 20375
+        },
+        "Bartender": {
+          "Endurance": 19250,
+          "Manual Labor": 9750
+        },
+        "Deckhand": {
+          "Manual Labor": 13000,
+          "Endurance": 6500
+          },
+        "Ticket Agent": {
+          "Endurance": 13000,
+          "Intelligence": 6500
+    }
+}
+    },
+    "16": {
+      "Type": "TV Station",
+      "Positions": {
+        "Producer": {
+          "Intelligence": 49000,
+          "Endurance": 24500
+        },
+        "Programmer": {
+          "Intelligence": 33000,
+          "Endurance": 16500
+        },
+        "Camera Operator": {
+          "Intelligence": 24750,
+          "Manual Labor": 12375
+        },
+        "Sales Executive": {
+          "Endurance": 24750,
+          "Intelligence": 12375
+        },
+        "Cleaner": {
+          "Manual Labor": 16500,
+          "Endurance": 8250
+        },
+        "Attorney": {
+          "Intelligence": 66000,
+          "Endurance": 33000
+        },
+        "Secretary": {
+          "Endurance": 49000,
+          "Intelligence": 24500
+        },
+        "Marketer": {
+          "Intelligence": 66000,
+          "Endurance": 33000
+        },
+        "Writer": {
+          "Intelligence": 57750,
+          "Endurance": 28875
+        },
+        "Stagehand": {
+          "Manual Labor": 16500,
+          "Endurance": 8250
+        },
+        "Anchor": {
+          "Intelligence": 66000,
+          "Endurance": 33000
+        },
+        "Reporter": {
+          "Intelligence": 41250,
+          "Endurance": 20625
+    }
+}
+    },
+    "18": {
+      "Type": "Zoo",
+      "Positions": {
+        "Zoo Keeper": {
+          "Manual Labor": 29000,
+          "Endurance": 14500
+        },
+        "Animal Trainer": {
+          "Intelligence": 36500,
+          "Manual Labor": 18250
+        },
+        "Cleaner": {
+          "Manual Labor": 16500,
+          "Endurance": 8250
+          },
+
+        "Intern": {
+          "Manual Labor": 7250,
+          "Endurance": 3625
+        },
+        "Manager": {
+          "Endurance": 58000,
+          "Intelligence": 29000
+        },
+        "Bookkeeper": {
+          "Endurance": 43500,
+          "Intelligence": 21750
+        },
+        "Photographer": {
+          "Intelligence": 58000,
+          "Endurance": 29000
+        },
+        "Consultant": {
+          "Intelligence": 87000,
+          "Endurance": 43500
+        },
+        "Veterinarian": {
+          "Intelligence": 58000,
+          "Manual Labor": 29000
+        },
+        "Cashier": {
+          "Endurance": 14250,
+          "Intelligence": 7125
+        }
+    }
+},
+    "19": {
+      "Type": "Firework Stand",
+      "Positions": {
+        "Salesperson": {
+          "Endurance": 1000,
+          "Intelligence": 500
+        },
+        "Pyrotechnician": {
+          "Manual Labor": 3000,
+          "Intelligence": 1500
+        },
+        "Picker Packer": {
+          "Manual Labor": 500,
+          "Endurance": 250
+        },
+        "Manager": {
+          "Endurance": 2000,
+          "Intelligence": 1000
+        },
+        "Bookkeeper": {
+          "Endurance": 1500,
+          "Intelligence": 750
+        },
+        "Advertising Manager": {
+          "Intelligence": 2000,
+          "Endurance": 1000
+        },
+        "Trainer": {
+          "Intelligence": 3000,
+          "Endurance": 1500
+        }
+    },
+    "Stock": {
+            "Services": [],
+            "ProducedGoods": [
+                {
+                    "Name": "Firework",
+                    "Cost": "Cannot be ordered",
+                    "RRP": 140
+                }
+            ],
+            "OrderedGoods": []
+        }
+}, 
+    "20": {
+      "Type": "Prop Broker",
+      "Positions": {
+        "Property Broker": {
+          "Endurance": 7500,
+          "Intelligence": 3750
+        },
+        "Valuation Specialist": {
+          "Intelligence": 15000,
+          "Endurance": 7500
+        },
+        "Associate Broker": {
+          "Endurance": 12500,
+          "Intelligence": 6250
+        },
+        "Cleaner": {
+          "Manual Labor": 15000,
+          "Endurance": 7500
+        },
+        "Team Manager": {
+          "Endurance": 15000,
+          "Intelligence": 7500
+        },
+        "Receptionist": {
+          "Endurance": 12500,
+          "Intelligence": 6250
+        },
+        "Graphic Designer": {
+          "Intelligence": 15000,
+          "Endurance": 7500
+        },
+        "Broker Support": {
+          "Intelligence": 22500,
+          "Endurance": 11250
+        }
+    }
+          },
+    "21": {
+      "Type": "Furniture Store",
+      "Positions": {
+        "Sales Clerk": {
+          "Endurance": 32500,
+          "Intelligence": 16250
+        },
+        "Cleaner": {
+          "Manual Labor": 16500,
+          "Endurance": 8250
+        },
+        "Intern": {
+          "Manual Labor": 7250,
+          "Endurance": 3625
+        },
+        "Manager": {
+          "Endurance": 58000,
+          "Intelligence": 29000
+        },
+        "Bookkeeper": {
+          "Endurance": 43500,
+          "Intelligence": 21750
+        },
+        "Advertising Manager": {
+          "Intelligence": 58000,
+          "Endurance": 29000
+        },
+        "Trainer": {
+          "Intelligence": 87000,
+          "Endurance": 43500
+        }
+          }
+        },
+    "22": {
+      "Type": "Gas Station",
+      "Positions": {
+        "Attendant": {
+          "Endurance": 26000,
+          "Intelligence": 13000
+        },
+        "Cleaner": {
+          "Manual Labor": 17500,
+          "Endurance": 8750
+        },
+        "Manager": {
+          "Endurance": 60000,
+          "Intelligence": 30000
+        },
+        "Marketer": {
+          "Intelligence": 40000,
+          "Endurance": 20000
+        },
+        "Trainer": {
+          "Intelligence": 70500,
+          "Endurance": 35250
+    }
+}
+    },
+    "23": {
+      "Type": "Music Store",
+      "Positions": {
+        "Sales Assistant": {
+          "Endurance": 3500,
+          "Intelligence": 1750
+        },
+        "Musician": {
+          "Intelligence": 9000,
+          "Manual Labor": 4500
+        },
+        "Sales Apprentice": {
+          "Endurance": 1000,
+          "Intelligence": 500
+        },
+        "Cleaner": {
+          "Manual Labor": 2000,
+          "Endurance": 1000
+        },
+        "Supervisor": {
+          "Endurance": 7000,
+          "Intelligence": 3500
+        },
+        "Bookkeeper": {
+          "Endurance": 5500,
+          "Intelligence": 2750
+        },
+        "Trainer": {
+          "Intelligence": 10500,
+          "Endurance": 5250
+    }
+}
+    },
+    "24": {
+      "Type": "Nightclub",
+      "Positions": {
+        "Bartender": {
+          "Endurance": 27000,
+          "Manual Labor": 13500
+        },
+        "Bouncer": {
+          "Manual Labor": 48000,
+          "Endurance": 24000
+        },
+        "Barback": {
+          "Endurance": 20500,
+          "Manual Labor": 10250
+        },
+        "Cleaner": {
+          "Manual Labor": 13500,
+          "Endurance": 6750
+        },
+        "Manager": {
+          "Endurance": 54000,
+          "Intelligence": 27000
+        },
+        "Personal Assistant": {
+          "Endurance": 40500,
+          "Intelligence": 20250
+        },
+        "Promoter": {
+          "Intelligence": 54000,
+          "Endurance": 27000
+        },
+        "Trainer": {
+          "Intelligence": 81000,
+          "Endurance": 40500
+        },
+        "Disk-jockey": {
+          "Intelligence": 40500,
+          "Endurance": 20250
+          }
+    }
+  },
+    "25": {
+      "Type": "Pub",
+      "Positions": {
+        "Bartender": {
+          "Endurance": 3000,
+          "Manual Labor": 1500
+        },
+        "Bouncer": {
+          "Manual Labor": 6000,
+          "Endurance": 3000
+        },
+        "Waiter": {
+          "Endurance": 3000,
+          "Manual Labor": 1500
+        },
+        "Cleaner": {
+          "Manual Labor": 1500,
+          "Endurance": 750
+        },
+        "Manager": {
+          "Endurance": 6000,
+          "Intelligence": 3000
+        },
+        "Bookkeeper": {
+          "Endurance": 4500,
+          "Intelligence": 2250
+        },
+        "Trainer": {
+          "Intelligence": 9000,
+          "Endurance": 4500
+        },
+        "Promoter": {
+          "Intelligence": 6000,
+          "Endurance": 3000
+    }
+}
+    },
+    "26": {
+      "Type": "Gents Strip Club",
+      "Positions": {
+        "Stripper": {
+          "Endurance": 14500,
+          "Manual Labor": 7250
+        },
+        "Security": {
+          "Manual Labor": 29000,
+          "Endurance": 14500
+        },
+        "Cleaner": {
+          "Manual Labor": 7500,
+          "Endurance": 3750
+        },
+        "Manager": {
+          "Endurance": 29000,
+          "Intelligence": 14500
+        },
+        "Bookkeeper": {
+          "Endurance": 22000,
+          "Intelligence": 11000
+        },
+        "Photographer": {
+          "Intelligence": 29000,
+          "Endurance": 14500
+    }
+}
+    },
+    "27": {
+      "Type": "Restaurant",
+      "Positions": {
+        "Waiter": {
+          "Endurance": 2500,
+          "Manual Labor": 1250
+        },
+        "Sous Chef": {
+          "Intelligence": 4000,
+          "Endurance": 2000
+        },
+        "Head Chef": {
+          "Endurance": 5000,
+          "Intelligence": 2500
+        },
+        "Kitchen Assistant": {
+          "Manual Labor": 1500,
+          "Endurance": 750
+        },
+        "Head Waiter": {
+          "Endurance": 4000,
+          "Intelligence": 2000
+        },
+        "Line Cook": {
+          "Intelligence": 2500,
+          "Manual Labor": 1250
+        },
+        "Chef": {
+          "Intelligence": 3000,
+          "Manual Labor": 1500
+        },
+        "Apprentice Chef": {
+          "Intelligence": 1500,
+          "Manual Labor": 750
+        },
+        "Dishwasher": {
+          "Manual Labor": 1500,
+          "Endurance": 750
+    }
+}
+    },
+    "28": {
+      "Type": "Oil rig",
+      "Positions": {
+        "Driller": {
+          "Manual Labor": 150000,
+          "Intelligence": 75000
+        },
+        "Roughneck": {
+          "Manual Labor": 75000,
+          "Endurance": 37500
+        },
+        "Derrick Hand": {
+          "Manual Labor": 94000,
+          "Endurance": 47000
+        },
+        "Secretary": {
+          "Endurance": 112500,
+          "Intelligence": 56250
+    },
+        "Inspector": {
+          "Intelligence": 225000,
+          "Endurance": 112500
+        },
+        "Sales Executive": {
+          "Intelligence": 131500,
+          "Endurance": 65750
+        },
+        "Motor Hand": {
+          "Manual Labor": 112500,
+          "Intelligence": 56250
+}
+    }
+  },
+    "29": {
+      "Type": "Fitness Center",
+      "Positions": {
+        "Personal Trainer": {
+          "Manual Labor": 31000,
+          "Endurance": 15500
+        },
+        "Swimming Instructor": {
+          "Endurance": 46500,
+          "Manual Labor": 23250
+        },
+        "Lifeguard": {
+          "Endurance": 39000,
+          "Manual Labor": 19500
+        },
+        "Cleaner": {
+          "Manual Labor": 15500,
+          "Endurance": 7750
+        },
+        "Manager": {
+          "Endurance": 62000,
+          "Intelligence": 31000
+        },
+        "Receptionist": {
+          "Endurance": 10000,
+          "Intelligence": 5000
+        },
+        "Marketer": {
+          "Intelligence": 62000,
+          "Endurance": 31000
+        },
+        "Human Resources": {
+          "Endurance": 46500,
+          "Intelligence": 23250
+        },
+        "Nutritionist": {
+          "Intelligence": 54500,
+          "Manual Labor": 27250
+        },
+        "Fitness Instructor": {
+          "Manual Labor": 46500,
+          "Endurance": 23250
+}
+      }
+    },
+    "30": {
+      "Type": "Mech shop",
+      "Positions": {
+        "Technician": {
+          "Manual Labor": 8500,
+          "Endurance": 4250
+        },
+        "Apprentice Technician": {
+          "Manual Labor": 2000,
+          "Endurance": 1000
+        },
+        "Cleaner": {
+          "Manual Labor": 4500,
+          "Endurance": 2250
+        },
+        "Manager": {
+          "Endurance": 17000,
+          "Intelligence": 8500
+        },
+        "Receptionist": {
+          "Endurance": 13000,
+          "Intelligence": 6500
+        },
+        "Trainer": {
+          "Intelligence": 25500,
+          "Endurance": 12750
+}
+      }
+    },
+    "31": {
+      "Type": "Amusement Park",
+      "Positions": {
+        "Inspector": {
+          "Intelligence": 135000,
+          "Endurance": 67500
+        },
+        "Manager": {
+          "Endurance": 90000,
+          "Intelligence": 45000
+        },
+        "Marketer": {
+          "Intelligence": 90000,
+          "Endurance": 45000
+},
+        "Security Guard": {
+          "Manual Labor": 79000,
+          "Endurance": 39500
+        },
+        "Mechanic": {
+          "Manual Labor": 67500,
+          "Intelligence": 33750
+        },
+        "Accountant": {
+          "Endurance": 67500,
+          "Intelligence": 33750
+        },
+        "Ride Attendant": {
+          "Endurance": 45000,
+          "Intelligence": 22500
+        },
+        "Entertainer": {
+          "Manual Labor": 34000,
+          "Endurance": 17000
+        },
+        "Ticket Agent": {
+          "Endurance": 22500,
+          "Intelligence": 11250
+        },
+        "Janitor": {
+          "Manual Labor": 22500,
+          "Endurance": 11250
+        }
+      }
+    },
+    "32": {
+      "Type": "Lingerie Store",
+      "Positions": {
+        "Salesperson": {
+          "Endurance": 4500,
+          "Intelligence": 2250
+        },
+        "Cleaner": {
+          "Manual Labor": 2500,
+          "Endurance": 1250
+        },
+        "Store Manager": {
+          "Endurance": 9000,
+          "Intelligence": 4500
+        },
+        "Lingerie Model": {
+          "Intelligence": 9000,
+          "Endurance": 4500
+        },
+        "Human Resources": {
+          "Intelligence": 13500,
+          "Endurance": 6750
+        },
+        "Trainee": {
+          "Endurance": 1000,
+          "Intelligence": 500
+  }
+}
+    },
+    "33": {
+      "Type": "Meat Warehouse",
+      "Positions": {
+        "Quality Controller": {
+          "Intelligence": 25000,
+          "Manual Labor": 12500
+        },
+        "Packer": {
+          "Manual Labor": 9500,
+          "Endurance": 4750
+        },
+        "Apprentice Butcher": {
+          "Manual Labor": 3000,
+          "Endurance": 1500
+        },
+        "Cleaner": {
+          "Manual Labor": 6500,
+          "Endurance": 3250
+        },
+        "Manager": {
+          "Endurance": 25000,
+          "Intelligence": 12500
+        },
+        "Assistant": {
+          "Endurance": 19000,
+          "Intelligence": 9500
+        },
+        "Supervisor": {
+          "Intelligence": 37500,
+          "Endurance": 18750
+        },
+        "Butcher": {
+          "Manual Labor": 12500,
+          "Endurance": 6250
+        },
+        "Retailer": {
+          "Intelligence": 12500,
+          "Endurance": 6250
+    }
+
+}
+    },
+    "34": {
+      "Type": "Farm",
+      "Positions": {
+        "Harvester": {
+          "Manual Labor": 14000,
+          "Endurance": 7000
+        },
+        "Delivery Driver": {
+          "Manual Labor": 23000,
+          "Endurance": 11500
+        },
+        "Herdsperson": {
+          "Manual Labor": 18500,
+          "Endurance": 9250
+        },
+        "Farm Manager": {
+          "Endurance": 37500,
+          "Intelligence": 18750
+        },
+        "Bookkeeper": {
+          "Endurance": 28000,
+          "Intelligence": 14000
+        },
+        "Consultant": {
+          "Intelligence": 55500,
+          "Endurance": 27750
+        },
+        "Retailer": {
+          "Intelligence": 18500,
+          "Endurance": 9250
+        },
+        "Dairy Farmer": {
+          "Manual Labor": 23000,
+          "Endurance": 11500
+        },
+        "Poultry Farmer": {
+          "Manual Labor": 18500,
+          "Endurance": 9250
+        }
+      }
+    },
+    "35": {
+      "Type": "Software Corp",
+      "Positions": {
+        "Developer": {
+          "Intelligence": 24000,
+          "Endurance": 12000
+        },
+        "Tester": {
+          "Intelligence": 12000,
+          "Endurance": 6000
+        },
+        "Graphic Designer": {
+          "Intelligence": 18000,
+          "Endurance": 9000
+        },
+        "Apprentice": {
+          "Intelligence": 6000,
+          "Endurance": 3000
+        },
+        "Cleaner": {
+          "Manual Labor": 12000,
+          "Endurance": 6000
+        },
+        "Lead Developer": {
+          "Endurance": 48000,
+          "Intelligence": 24000
+        },
+        "Analyst": {
+          "Endurance": 36000,
+          "Intelligence": 18000
+        },
+        "Marketer": {
+          "Intelligence": 48000,
+          "Endurance": 24000
+        },
+        "Consultant": {
+          "Intelligence": 72000,
+          "Endurance": 36000
+        }
+      }
+    },
+    "36": {
+      "Type": "Ladies Strip Club",
+      "Positions": {
+        "Male Stripper": {
+          "Endurance": 14500,
+          "Manual Labor": 7250
+        },
+        "Security": {
+          "Manual Labor": 29000,
+          "Endurance": 14500
+        },
+        "Cleaner": {
+          "Manual Labor": 8500,
+          "Endurance": 4250
+        },
+        "Manager": {
+          "Endurance": 33000,
+          "Intelligence": 16500
+        },
+        "Bookkeeper": {
+          "Endurance": 25000,
+          "Intelligence": 12500
+        },
+        "Photographer": {
+          "Intelligence": 33000,
+          "Endurance": 16500
+        }
+      }
+          },
+    "37": {
+      "Type": "Private Security Firm",
+      "Positions": {
+        "Security Contractor": {
+          "Manual Labor": 70000,
+          "Endurance": 35000
+        },
+        "Team Leader": {
+          "Manual Labor": 110000,
+          "Endurance": 55000
+        },
+        "Defence Consultant": {
+          "Intelligence": 135000,
+          "Endurance": 67500
+        },
+        "Spokesperson": {
+          "Intelligence": 80000,
+          "Endurance": 40000
+        },	
+        "Company Liaison": {
+          "Intelligence": 57500,
+          "Endurance": 115000
+        },
+        "Chief Strategist": {
+          "Intelligence": 165000,
+          "Endurance": 82500
+        },
+        "Reconnaissance": {
+          "Manual Labor": 80000,
+          "Intelligence": 40000
+        },
+        "Disposal Engineer": {
+          "Intelligence": 85000,
+          "Endurance": 42500
+        },
+        "Armourer": {
+          "Endurance": 80000,
+          "Manual Labor": 40000
+        },
+        "Medic": {
+          "Intelligence": 90000,
+          "Endurance": 45000
+        },
+        "Comms Engineer": {
+          "Intelligence": 85000,
+          "Endurance": 42500
+        }
+        }
+    },
+    "38": {
+      "Type": "Mining Corp",
+      "Positions": {
+        "Sales Executive": {
+          "Intelligence": 83000,
+          "Endurance": 41500
+        },
+        "Mill Operator": {
+          "Manual Labor": 75000,
+          "Endurance": 37500
+        },
+        "Production Foreman": {
+          "Endurance": 79000,
+          "Manual Labor": 39500
+        },
+        "Mine Engineer": {
+          "Intelligence": 81000,
+          "Endurance": 40500
+        },
+        "Electrician": {
+          "Endurance": 78000,
+          "Manual Labor": 39000
+        },
+        "Safety Inspector": {
+          "Intelligence": 95000,
+          "Manual Labor": 47500
+        },
+        "Site Manager": {
+          "Intelligence": 97000,
+          "Endurance": 48750
+        },
+        "Secretary": {
+          "Endurance": 78000,
+          "Intelligence": 39000
+        }
+      }
+    },
+    "39": {
+      "Type": "Detective Agency",
+      "Positions": {
+        "Private Investigator": {
+          "Intelligence": 45500,
+          "Manual Labor": 22500
+        },
+        "Trainee Investigator": {
+          "Intelligence": 28000,
+          "Manual Labor": 14000
+          },
+
+        "Secretary": {
+          "Endurance": 25000,
+          "Manual Labor": 12500
+        },
+        "Intelligence Analyst": {
+          "Intelligence": 58000,
+          "Endurance": 29000
+        },
+        "Surveillance": {
+          "Intelligence": 52000,
+          "Manual Labor": 26000
+        },
+        "Chief Investigator": {
+          "Intelligence": 80000,
+          "Endurance": 40000
+        },
+        "Client Liaison": {
+          "Intelligence": 62000,
+          "Endurance": 31000
+        }
+      }
+    },
+    "40": {
+      "Type": "Logistics",
+      "Positions": {
+        "Lumper": {
+          "Manual Labor": 45000,
+          "Endurance": 22500
+        },
+        "Driver": {
+          "Endurance": 57500,
+          "Manual Labor": 28750
+        },
+        "Forklift Operator": {
+          "Endurance": 60000,
+          "Manual Labor": 30000
+        },
+        "Transport Coordinator": {
+          "Intelligence": 85000,
+          "Endurance": 42500
+        },
+        "Warehouse Manager": {
+          "Intelligence": 115000,
+          "Endurance": 57500
+        },
+        "Shift Manager": {
+          "Intelligence": 90000,
+          "Endurance": 45000
+        },
+        "Supply Chain Manager": {
+          "Intelligence": 125000,
+          "Endurance": 62500
+        },
+        "Procurement Manager": {
+          "Intelligence": 140000,
+          "Endurance": 70000
+          }
+        }
+    }
+}
+

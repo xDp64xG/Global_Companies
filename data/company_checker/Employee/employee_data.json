@@ -1,0 +1,320 @@
+{
+    "employees": {
+        "--XanaX--": {
+            "Employee ID": "2928912",
+            "last action": "10 hours ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 25,
+            "Wage": 10000,
+            "Effectiveness": {
+                "working_stats": 116,
+                "settled_in": 10,
+                "merits": 8,
+                "director_education": 5,
+                "total": 139
+            },
+            "Working Stats": {
+                "Manual Labor": 10776,
+                "Intelligence": 10799,
+                "Endurance": 15587
+            }
+        },
+        "dremoney20": {
+            "Employee ID": "1529576",
+            "last action": "17 hours ago",
+            "Position": "Trainer",
+            "Loyalty": 71,
+            "Wage": 20000,
+            "Effectiveness": {
+                "working_stats": 131,
+                "settled_in": 10,
+                "merits": 3,
+                "director_education": 12,
+                "total": 156
+            },
+            "Working Stats": {
+                "Manual Labor": 91911,
+                "Intelligence": 100818,
+                "Endurance": 129148
+            }
+        },
+        "scaedux": {
+            "Employee ID": "2531658",
+            "last action": "19 minutes ago",
+            "Position": "Supervisor",
+            "Loyalty": 69,
+            "Wage": 10000,
+            "Effectiveness": {
+                "working_stats": 100,
+                "settled_in": 10,
+                "merits": 3,
+                "director_education": 12,
+                "addiction": -2,
+                "total": 123
+            },
+            "Working Stats": {
+                "Manual Labor": 3038,
+                "Intelligence": 7111,
+                "Endurance": 10267
+            }
+        },
+        "Zesty59": {
+            "Employee ID": "3396860",
+            "last action": "16 hours ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 25,
+            "Wage": 30000,
+            "Effectiveness": {
+                "working_stats": 98,
+                "settled_in": 10,
+                "director_education": 5,
+                "management": 4,
+                "inactivity": -9,
+                "total": 108
+            },
+            "Working Stats": {
+                "Manual Labor": 5639,
+                "Intelligence": 1988,
+                "Endurance": 6774
+            }
+        },
+        "london26a": {
+            "Employee ID": "2950711",
+            "last action": "18 hours ago",
+            "Position": "Musician",
+            "Loyalty": 24,
+            "Wage": 50000,
+            "Effectiveness": {
+                "working_stats": 72,
+                "settled_in": 10,
+                "merits": 5,
+                "director_education": 5,
+                "management": 9,
+                "total": 101
+            },
+            "Working Stats": {
+                "Manual Labor": 4217,
+                "Intelligence": 4628,
+                "Endurance": 5181
+            }
+        },
+        "StrykerActual": {
+            "Employee ID": "3528155",
+            "last action": "43 minutes ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 71,
+            "Wage": 0,
+            "Effectiveness": {
+                "working_stats": 103,
+                "settled_in": 10,
+                "merits": 3,
+                "director_education": 12,
+                "total": 128
+            },
+            "Working Stats": {
+                "Manual Labor": 902,
+                "Intelligence": 5149,
+                "Endurance": 5229
+            }
+        },
+        "ShrekMilitaire": {
+            "Employee ID": "3469659",
+            "last action": "21 hours ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 25,
+            "Wage": 10000,
+            "Effectiveness": {
+                "working_stats": 97,
+                "settled_in": 10,
+                "merits": 2,
+                "director_education": 5,
+                "management": 3,
+                "total": 117
+            },
+            "Working Stats": {
+                "Manual Labor": 3299,
+                "Intelligence": 3700,
+                "Endurance": 3437
+            }
+        },
+        "TheMightyFoz": {
+            "Employee ID": "2173796",
+            "last action": "9 hours ago",
+            "Position": "Trainer",
+            "Loyalty": 24,
+            "Wage": 30000,
+            "Effectiveness": {
+                "working_stats": 40,
+                "settled_in": 10,
+                "merits": 7,
+                "director_education": 5,
+                "management": 16,
+                "total": 78
+            },
+            "Working Stats": {
+                "Manual Labor": 2524,
+                "Intelligence": 2122,
+                "Endurance": 2955
+            }
+        },
+        "bobberino": {
+            "Employee ID": "3389507",
+            "last action": "1 hour ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 71,
+            "Wage": 30000,
+            "Effectiveness": {
+                "working_stats": 106,
+                "settled_in": 10,
+                "merits": 4,
+                "director_education": 12,
+                "total": 132
+            },
+            "Working Stats": {
+                "Manual Labor": 2372,
+                "Intelligence": 6022,
+                "Endurance": 7352
+            }
+        },
+        "CuttableRex": {
+            "Employee ID": "3529108",
+            "last action": "37 minutes ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 25,
+            "Wage": 10000,
+            "Effectiveness": {
+                "working_stats": 71,
+                "settled_in": 10,
+                "director_education": 5,
+                "management": 10,
+                "total": 96
+            },
+            "Working Stats": {
+                "Manual Labor": 1015,
+                "Intelligence": 1530,
+                "Endurance": 1857
+            }
+        },
+        "Xekz": {
+            "Employee ID": "3402212",
+            "last action": "6 minutes ago",
+            "Position": "Musician",
+            "Loyalty": 16,
+            "Wage": 0,
+            "Effectiveness": {
+                "working_stats": 101,
+                "settled_in": 10,
+                "merits": 5,
+                "director_education": 12,
+                "addiction": -2,
+                "total": 126
+            },
+            "Working Stats": {
+                "Manual Labor": 12546,
+                "Intelligence": 13094,
+                "Endurance": 20595
+            }
+        },
+        "SerShadow": {
+            "Employee ID": "3390687",
+            "last action": "4 hours ago",
+            "Position": "Musician",
+            "Loyalty": 17,
+            "Wage": 0,
+            "Effectiveness": {
+                "working_stats": 98,
+                "settled_in": 10,
+                "merits": 3,
+                "director_education": 12,
+                "management": 1,
+                "addiction": -4,
+                "total": 120
+            },
+            "Working Stats": {
+                "Manual Labor": 8568,
+                "Intelligence": 12807,
+                "Endurance": 17186
+            }
+        },
+        "Morokei7325": {
+            "Employee ID": "3373054",
+            "last action": "43 minutes ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 15,
+            "Wage": 0,
+            "Effectiveness": {
+                "working_stats": 107,
+                "settled_in": 10,
+                "director_education": 12,
+                "addiction": -8,
+                "total": 121
+            },
+            "Working Stats": {
+                "Manual Labor": 5039,
+                "Intelligence": 5499,
+                "Endurance": 9656
+            }
+        },
+        "k4m8": {
+            "Employee ID": "3468058",
+            "last action": "6 hours ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 38,
+            "Wage": 30000,
+            "Effectiveness": {
+                "working_stats": 101,
+                "settled_in": 10,
+                "merits": 1,
+                "director_education": 12,
+                "management": 1,
+                "total": 125
+            },
+            "Working Stats": {
+                "Manual Labor": 1894,
+                "Intelligence": 4527,
+                "Endurance": 4956
+            }
+        },
+        "Azariah13": {
+            "Employee ID": "3618036",
+            "last action": "15 hours ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 31,
+            "Wage": 0,
+            "Effectiveness": {
+                "working_stats": 78,
+                "settled_in": 10,
+                "merits": 5,
+                "director_education": 12,
+                "management": 6,
+                "addiction": -2,
+                "total": 109
+            },
+            "Working Stats": {
+                "Manual Labor": 339,
+                "Intelligence": 1487,
+                "Endurance": 2229
+            }
+        },
+        "ChadPage82": {
+            "Employee ID": "3669067",
+            "last action": "2 hours ago",
+            "Position": "Sales Assistant",
+            "Loyalty": 11,
+            "Wage": 0,
+            "Effectiveness": {
+                "working_stats": 11,
+                "settled_in": 10,
+                "merits": 2,
+                "director_education": 12,
+                "management": 27,
+                "total": 62
+            },
+            "Working Stats": {
+                "Manual Labor": 38,
+                "Intelligence": 235,
+                "Endurance": 376
+            }
+        }
+    }
+}

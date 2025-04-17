@@ -1,0 +1,42 @@
+{
+    "logs": [],
+    "Wytzaspjh7HSc5nA": {
+        "entries": [
+            {
+                "date": "2025-02-01",
+                "profit": 0,
+                "customers": 0
+            },
+            {
+                "date": "2025-02-08",
+                "profit": 0,
+                "customers": 0
+            },
+            {
+                "date": "2025-02-11",
+                "profit": 0,
+                "customers": 0
+            },
+            {
+                "date": "2025-03-02",
+                "profit": 0,
+                "customers": 0
+            },
+            {
+                "date": "2025-04-15",
+                "profit": 0,
+                "customers": 0
+            },
+            {
+                "date": "2025-04-16",
+                "profit": 0,
+                "customers": 0
+            },
+            {
+                "date": "2025-04-17",
+                "profit": 0,
+                "customers": 0
+            }
+        ]
+    }
+}
